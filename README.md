@@ -1,6 +1,6 @@
 # LojaVirtual
  
-CRUD Utilizando ASP.NET MVC + Sql Db/Server<b>
-.NET Core 3.1<b>
-Sql Server Management 2019<b>
+CRUD Utilizando ASP.NET MVC + Sql Db/Server<br>
+.NET Core 3.1<br>
+Sql Server Management 2019<br>
 Visual Studio 2019 Community 
